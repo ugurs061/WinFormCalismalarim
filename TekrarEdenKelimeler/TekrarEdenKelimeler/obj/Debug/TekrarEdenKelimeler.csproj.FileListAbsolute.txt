@@ -1,0 +1,11 @@
+C:\Users\rexts\source\repos\ArkSoftSorular2\TekrarEdenKelimeler\TekrarEdenKelimeler\obj\Debug\TekrarEdenKelimeler.csproj.AssemblyReference.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\TekrarEdenKelimeler\TekrarEdenKelimeler\obj\Debug\TekrarEdenKelimeler.csproj.SuggestedBindingRedirects.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\TekrarEdenKelimeler\TekrarEdenKelimeler\obj\Debug\TekrarEdenKelimeler.Form1.resources
+C:\Users\rexts\source\repos\ArkSoftSorular2\TekrarEdenKelimeler\TekrarEdenKelimeler\obj\Debug\TekrarEdenKelimeler.Properties.Resources.resources
+C:\Users\rexts\source\repos\ArkSoftSorular2\TekrarEdenKelimeler\TekrarEdenKelimeler\obj\Debug\TekrarEdenKelimeler.csproj.GenerateResource.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\TekrarEdenKelimeler\TekrarEdenKelimeler\obj\Debug\TekrarEdenKelimeler.csproj.CoreCompileInputs.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\TekrarEdenKelimeler\TekrarEdenKelimeler\bin\Debug\TekrarEdenKelimeler.exe.config
+C:\Users\rexts\source\repos\ArkSoftSorular2\TekrarEdenKelimeler\TekrarEdenKelimeler\bin\Debug\TekrarEdenKelimeler.exe
+C:\Users\rexts\source\repos\ArkSoftSorular2\TekrarEdenKelimeler\TekrarEdenKelimeler\bin\Debug\TekrarEdenKelimeler.pdb
+C:\Users\rexts\source\repos\ArkSoftSorular2\TekrarEdenKelimeler\TekrarEdenKelimeler\obj\Debug\TekrarEdenKelimeler.exe
+C:\Users\rexts\source\repos\ArkSoftSorular2\TekrarEdenKelimeler\TekrarEdenKelimeler\obj\Debug\TekrarEdenKelimeler.pdb

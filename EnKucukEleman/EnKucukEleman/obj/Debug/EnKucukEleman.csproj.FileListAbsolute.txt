@@ -1,0 +1,11 @@
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnKucukEleman\EnKucukEleman\bin\Debug\EnKucukEleman.exe.config
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnKucukEleman\EnKucukEleman\bin\Debug\EnKucukEleman.exe
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnKucukEleman\EnKucukEleman\bin\Debug\EnKucukEleman.pdb
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnKucukEleman\EnKucukEleman\obj\Debug\EnKucukEleman.csproj.AssemblyReference.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnKucukEleman\EnKucukEleman\obj\Debug\EnKucukEleman.csproj.SuggestedBindingRedirects.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnKucukEleman\EnKucukEleman\obj\Debug\EnKucukEleman.Form1.resources
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnKucukEleman\EnKucukEleman\obj\Debug\EnKucukEleman.Properties.Resources.resources
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnKucukEleman\EnKucukEleman\obj\Debug\EnKucukEleman.csproj.GenerateResource.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnKucukEleman\EnKucukEleman\obj\Debug\EnKucukEleman.csproj.CoreCompileInputs.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnKucukEleman\EnKucukEleman\obj\Debug\EnKucukEleman.exe
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnKucukEleman\EnKucukEleman\obj\Debug\EnKucukEleman.pdb

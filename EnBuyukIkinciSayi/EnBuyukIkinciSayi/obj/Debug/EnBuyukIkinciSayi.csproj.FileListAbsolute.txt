@@ -1,0 +1,11 @@
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnBuyukIkinciSayi\EnBuyukIkinciSayi\bin\Debug\EnBuyukIkinciSayi.exe.config
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnBuyukIkinciSayi\EnBuyukIkinciSayi\bin\Debug\EnBuyukIkinciSayi.exe
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnBuyukIkinciSayi\EnBuyukIkinciSayi\bin\Debug\EnBuyukIkinciSayi.pdb
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnBuyukIkinciSayi\EnBuyukIkinciSayi\obj\Debug\EnBuyukIkinciSayi.csproj.AssemblyReference.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnBuyukIkinciSayi\EnBuyukIkinciSayi\obj\Debug\EnBuyukIkinciSayi.csproj.SuggestedBindingRedirects.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnBuyukIkinciSayi\EnBuyukIkinciSayi\obj\Debug\EnBuyukIkinciSayi.Form1.resources
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnBuyukIkinciSayi\EnBuyukIkinciSayi\obj\Debug\EnBuyukIkinciSayi.Properties.Resources.resources
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnBuyukIkinciSayi\EnBuyukIkinciSayi\obj\Debug\EnBuyukIkinciSayi.csproj.GenerateResource.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnBuyukIkinciSayi\EnBuyukIkinciSayi\obj\Debug\EnBuyukIkinciSayi.csproj.CoreCompileInputs.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnBuyukIkinciSayi\EnBuyukIkinciSayi\obj\Debug\EnBuyukIkinciSayi.exe
+C:\Users\rexts\source\repos\ArkSoftSorular2\EnBuyukIkinciSayi\EnBuyukIkinciSayi\obj\Debug\EnBuyukIkinciSayi.pdb

@@ -1,0 +1,11 @@
+C:\Users\rexts\source\repos\ArkSoftSorular2\ArabaYarısıTutorial\ArabaYarısıTutorial\bin\Debug\ArabaYarısıTutorial.exe.config
+C:\Users\rexts\source\repos\ArkSoftSorular2\ArabaYarısıTutorial\ArabaYarısıTutorial\bin\Debug\ArabaYarısıTutorial.exe
+C:\Users\rexts\source\repos\ArkSoftSorular2\ArabaYarısıTutorial\ArabaYarısıTutorial\bin\Debug\ArabaYarısıTutorial.pdb
+C:\Users\rexts\source\repos\ArkSoftSorular2\ArabaYarısıTutorial\ArabaYarısıTutorial\obj\Debug\ArabaYarısıTutorial.csproj.AssemblyReference.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\ArabaYarısıTutorial\ArabaYarısıTutorial\obj\Debug\ArabaYarısıTutorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\ArabaYarısıTutorial\ArabaYarısıTutorial\obj\Debug\ArabaYarısıTutorial.Form1.resources
+C:\Users\rexts\source\repos\ArkSoftSorular2\ArabaYarısıTutorial\ArabaYarısıTutorial\obj\Debug\ArabaYarısıTutorial.Properties.Resources.resources
+C:\Users\rexts\source\repos\ArkSoftSorular2\ArabaYarısıTutorial\ArabaYarısıTutorial\obj\Debug\ArabaYarısıTutorial.csproj.GenerateResource.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\ArabaYarısıTutorial\ArabaYarısıTutorial\obj\Debug\ArabaYarısıTutorial.csproj.CoreCompileInputs.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\ArabaYarısıTutorial\ArabaYarısıTutorial\obj\Debug\ArabaYarısıTutorial.exe
+C:\Users\rexts\source\repos\ArkSoftSorular2\ArabaYarısıTutorial\ArabaYarısıTutorial\obj\Debug\ArabaYarısıTutorial.pdb

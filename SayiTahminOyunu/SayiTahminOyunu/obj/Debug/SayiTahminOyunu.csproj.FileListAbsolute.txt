@@ -1,0 +1,11 @@
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe.config
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.pdb
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.AssemblyReference.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.Form1.resources
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.Properties.Resources.resources
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.GenerateResource.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.exe
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.pdb

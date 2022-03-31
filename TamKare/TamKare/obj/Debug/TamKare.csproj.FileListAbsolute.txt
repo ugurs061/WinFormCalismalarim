@@ -1,0 +1,11 @@
+C:\Users\rexts\source\repos\ArkSoftSorular2\TamKare\TamKare\bin\Debug\TamKare.exe.config
+C:\Users\rexts\source\repos\ArkSoftSorular2\TamKare\TamKare\bin\Debug\TamKare.exe
+C:\Users\rexts\source\repos\ArkSoftSorular2\TamKare\TamKare\bin\Debug\TamKare.pdb
+C:\Users\rexts\source\repos\ArkSoftSorular2\TamKare\TamKare\obj\Debug\TamKare.csproj.AssemblyReference.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\TamKare\TamKare\obj\Debug\TamKare.csproj.SuggestedBindingRedirects.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\TamKare\TamKare\obj\Debug\TamKare.Form1.resources
+C:\Users\rexts\source\repos\ArkSoftSorular2\TamKare\TamKare\obj\Debug\TamKare.Properties.Resources.resources
+C:\Users\rexts\source\repos\ArkSoftSorular2\TamKare\TamKare\obj\Debug\TamKare.csproj.GenerateResource.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\TamKare\TamKare\obj\Debug\TamKare.csproj.CoreCompileInputs.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\TamKare\TamKare\obj\Debug\TamKare.exe
+C:\Users\rexts\source\repos\ArkSoftSorular2\TamKare\TamKare\obj\Debug\TamKare.pdb

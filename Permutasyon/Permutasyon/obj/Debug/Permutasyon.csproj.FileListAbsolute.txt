@@ -1,0 +1,11 @@
+C:\Users\rexts\source\repos\ArkSoftSorular2\Permutasyon\Permutasyon\bin\Debug\Permutasyon.exe.config
+C:\Users\rexts\source\repos\ArkSoftSorular2\Permutasyon\Permutasyon\bin\Debug\Permutasyon.exe
+C:\Users\rexts\source\repos\ArkSoftSorular2\Permutasyon\Permutasyon\bin\Debug\Permutasyon.pdb
+C:\Users\rexts\source\repos\ArkSoftSorular2\Permutasyon\Permutasyon\obj\Debug\Permutasyon.csproj.AssemblyReference.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\Permutasyon\Permutasyon\obj\Debug\Permutasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\Permutasyon\Permutasyon\obj\Debug\Permutasyon.Form1.resources
+C:\Users\rexts\source\repos\ArkSoftSorular2\Permutasyon\Permutasyon\obj\Debug\Permutasyon.Properties.Resources.resources
+C:\Users\rexts\source\repos\ArkSoftSorular2\Permutasyon\Permutasyon\obj\Debug\Permutasyon.csproj.GenerateResource.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\Permutasyon\Permutasyon\obj\Debug\Permutasyon.csproj.CoreCompileInputs.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\Permutasyon\Permutasyon\obj\Debug\Permutasyon.exe
+C:\Users\rexts\source\repos\ArkSoftSorular2\Permutasyon\Permutasyon\obj\Debug\Permutasyon.pdb

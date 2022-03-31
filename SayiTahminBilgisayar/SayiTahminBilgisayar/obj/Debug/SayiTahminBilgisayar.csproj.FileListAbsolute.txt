@@ -1,0 +1,11 @@
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminBilgisayar\SayiTahminBilgisayar\bin\Debug\SayiTahminBilgisayar.exe.config
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminBilgisayar\SayiTahminBilgisayar\bin\Debug\SayiTahminBilgisayar.exe
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminBilgisayar\SayiTahminBilgisayar\bin\Debug\SayiTahminBilgisayar.pdb
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminBilgisayar\SayiTahminBilgisayar\obj\Debug\SayiTahminBilgisayar.csproj.AssemblyReference.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminBilgisayar\SayiTahminBilgisayar\obj\Debug\SayiTahminBilgisayar.csproj.SuggestedBindingRedirects.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminBilgisayar\SayiTahminBilgisayar\obj\Debug\SayiTahminBilgisayar.Form1.resources
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminBilgisayar\SayiTahminBilgisayar\obj\Debug\SayiTahminBilgisayar.Properties.Resources.resources
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminBilgisayar\SayiTahminBilgisayar\obj\Debug\SayiTahminBilgisayar.csproj.GenerateResource.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminBilgisayar\SayiTahminBilgisayar\obj\Debug\SayiTahminBilgisayar.csproj.CoreCompileInputs.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminBilgisayar\SayiTahminBilgisayar\obj\Debug\SayiTahminBilgisayar.exe
+C:\Users\rexts\source\repos\ArkSoftSorular2\SayiTahminBilgisayar\SayiTahminBilgisayar\obj\Debug\SayiTahminBilgisayar.pdb

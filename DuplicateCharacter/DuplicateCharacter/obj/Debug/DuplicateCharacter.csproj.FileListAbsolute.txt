@@ -1,0 +1,11 @@
+C:\Users\rexts\source\repos\ArkSoftSorular2\DuplicateCharacter\DuplicateCharacter\bin\Debug\DuplicateCharacter.exe.config
+C:\Users\rexts\source\repos\ArkSoftSorular2\DuplicateCharacter\DuplicateCharacter\bin\Debug\DuplicateCharacter.exe
+C:\Users\rexts\source\repos\ArkSoftSorular2\DuplicateCharacter\DuplicateCharacter\bin\Debug\DuplicateCharacter.pdb
+C:\Users\rexts\source\repos\ArkSoftSorular2\DuplicateCharacter\DuplicateCharacter\obj\Debug\DuplicateCharacter.csproj.AssemblyReference.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\DuplicateCharacter\DuplicateCharacter\obj\Debug\DuplicateCharacter.csproj.SuggestedBindingRedirects.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\DuplicateCharacter\DuplicateCharacter\obj\Debug\DuplicateCharacter.Form1.resources
+C:\Users\rexts\source\repos\ArkSoftSorular2\DuplicateCharacter\DuplicateCharacter\obj\Debug\DuplicateCharacter.Properties.Resources.resources
+C:\Users\rexts\source\repos\ArkSoftSorular2\DuplicateCharacter\DuplicateCharacter\obj\Debug\DuplicateCharacter.csproj.GenerateResource.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\DuplicateCharacter\DuplicateCharacter\obj\Debug\DuplicateCharacter.csproj.CoreCompileInputs.cache
+C:\Users\rexts\source\repos\ArkSoftSorular2\DuplicateCharacter\DuplicateCharacter\obj\Debug\DuplicateCharacter.exe
+C:\Users\rexts\source\repos\ArkSoftSorular2\DuplicateCharacter\DuplicateCharacter\obj\Debug\DuplicateCharacter.pdb
